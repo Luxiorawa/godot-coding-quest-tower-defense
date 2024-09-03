@@ -26,8 +26,6 @@ gdscript/warnings/unsafe_call_argument=2
 
 [display]
 
-window/size/viewport_width=2304
-window/size/viewport_height=1296
 window/stretch/aspect="expand"
 
 [rendering]
